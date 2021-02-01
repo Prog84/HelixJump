@@ -365,6 +365,8 @@ MonoBehaviour:
     type: 3}
   _platforms:
   - {fileID: -3745109027633983282, guid: 0d7b3f4e6a398c245a58225b84f408f4, type: 3}
+  - {fileID: 6167752191582236033, guid: a762101597ae5e943b04a3f47cb0d7e7, type: 3}
+  - {fileID: 9171625170570290358, guid: bcdca544232434048838cab8643d88bc, type: 3}
 --- !u!54 &1136592516
 Rigidbody:
   m_ObjectHideFlags: 0
