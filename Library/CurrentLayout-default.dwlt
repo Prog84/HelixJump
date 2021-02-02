@@ -44,10 +44,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 948
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 1
-  controlID: 104
+  controlID: 110
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 948
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 105
+  controlID: 111
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -293,8 +293,8 @@ MonoBehaviour:
     y: 0
     width: 508
     height: 948
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 24}
   m_Panes:
   - {fileID: 24}
@@ -598,23 +598,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: a42c0000
       m_LastClickedID: 0
-      m_ExpandedIDs: cafaffff6afbffff
+      m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Directional Light
+        m_OriginalName: Directional Light
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 13254
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -662,7 +662,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -0.009643554, y: -0.5873008, z: -0.31416282}
     speed: 2
-    m_Value: {x: -0.00093254447, y: -0.024999956, z: 0.08113068}
+    m_Value: {x: -0.009643554, y: -0.5873008, z: -0.31416282}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -710,11 +710,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.032717682, y: -0.8713647, z: 0.48604462, w: -0.058648996}
     speed: 2
-    m_Value: {x: -0.3491932, y: 0.33748117, z: -0.13648503, w: -0.8634481}
+    m_Value: {x: -0.032717258, y: -0.8713534, z: 0.4860383, w: -0.058648232}
   m_Size:
     m_Target: 1.6877637
     speed: 2
-    m_Value: 1.4702415
+    m_Value: 1.6877637
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -778,20 +778,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Platform
+    - Assets/Scripts/Ball
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs/Platform
+  - Assets/Scripts/Ball
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Source\Helix Jump
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 46350000
-    m_LastClickedID: 13638
-    m_ExpandedIDs: 00000000383500004035000000ca9a3b
+    scrollPos: {x: 0, y: 10}
+    m_SelectedIDs: 1c360000
+    m_LastClickedID: 13852
+    m_ExpandedIDs: 00000000fc350000043600000836000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -819,7 +819,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000038350000
+    m_ExpandedIDs: 00000000fc350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -929,7 +929,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 15478
+  m_LastSelectedObjectID: 13270
 --- !u!114 &24
 MonoBehaviour:
   m_ObjectHideFlags: 52
